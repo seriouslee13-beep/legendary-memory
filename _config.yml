@@ -46,3 +46,4 @@ highlighter: rouge
 collections:
   school-history:
     output: true
+    permalink: /school-history/:path/
