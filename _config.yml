@@ -1,0 +1,50 @@
+# Site Settings
+title: Your Site Title
+description: A short description of your website for SEO and social media.
+url: "https://<your-username>.github.io" # Your site's URL
+baseurl: "/<your-repo-name>"             # Your repository name (include the leading slash)
+
+# Isomer Theme Configuration
+remote_theme: isomerpages/isomerpages-template
+# Note: If developing locally with Jekyll, use 'theme: isomerpages-template' instead
+
+# Required Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Isomer Specific Settings
+is_government: false      # Set to true if this is an official Singapore Govt site
+shareicon: /assets/img/isomer-logo.png
+favicon: /assets/img/favicon.ico
+
+# Header/Footer details (Customizable)
+colors:
+  primary-color: "#272a48"
+  secondary-color: "#32365a"
+
+# File Processing
+include: ["_pages"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - .jscsrc
+  - .grunt
+  - Gruntfile.js
+  - package.json
+  - package-lock.json
+
+# Markdown Engine
+markdown: kramdown
+highlighter: rouge
+
+# Collections (How Isomer organizes content)
+collections:
+  posts:
+    output: true
+  pages:
+    output: true
