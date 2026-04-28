@@ -1,16 +1,16 @@
 ---
 layout: homepage
-title: Welcome to my site
+title:  Insert title here
 description: Isomer fork (non-govt)
 image: /assets/img/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: Greendale Secondary
+      title: Idk what
       background: /images/20220517_092823.jpg
       button: Click here for Principal's Address
-      url: /about/school-leaders-message/
+      url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       key_highlights:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
