@@ -30,6 +30,7 @@ colors:
 include: 
 - _pages
 - assets
+- _school-history
 exclude:
   - Gemfile
   - Gemfile.lock
