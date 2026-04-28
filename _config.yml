@@ -5,7 +5,7 @@ url: "https://seriouslee13-beep.github.io" # Your site's URL
 baseurl: "/legendary-memory"             # Your repository name (include the leading slash)
 
 # Isomer Theme Configuration
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@next-gen
 # Note: If developing locally with Jekyll, use 'theme: isomerpages-template' instead
 
 # Required Plugins
