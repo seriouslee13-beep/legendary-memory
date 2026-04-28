@@ -1,1 +1,28 @@
+# Footer Configuration
+show_reach: true        # Shows the "Reach.gov.sg" feedback link (common in SG sites)
 
+# Social Media Links
+socials:
+  facebook: https://www.facebook.com/yourpage
+  twitter: https://www.twitter.com/yourhandle
+  youtube: https://www.youtube.com/yourchannel
+  instagram: https://www.instagram.com/youraccount
+
+# Footer Links (Grouped in columns)
+footer_items:
+  - title: Resources
+    sub_items:
+      - title: Privacy Statement
+        url: /privacy/
+      - title: Terms of Use
+        url: /terms/
+  - title: Support
+    sub_items:
+      - title: Contact Us
+        url: /contact/
+      - title: FAQ
+        url: /faq/
+
+# Copyright and Branding
+last_updated: 29 Apr 2026
+copyright_agency: Your Organization Name
