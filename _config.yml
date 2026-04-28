@@ -44,5 +44,5 @@ highlighter: rouge
 
 # Collections (How Isomer organizes content)
 collections:
-  femboygooner:
+  school-history:
     output: true
