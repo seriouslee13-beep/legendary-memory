@@ -44,7 +44,5 @@ highlighter: rouge
 
 # Collections (How Isomer organizes content)
 collections:
-  posts:
-    output: true
-  pages:
+  femboygooner:
     output: true
