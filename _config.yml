@@ -1,8 +1,8 @@
 # Site Settings
 title: Your Site Title
 description: A short description of your website for SEO and social media.
-url: "https://<your-username>.github.io" # Your site's URL
-baseurl: "/<your-repo-name>"             # Your repository name (include the leading slash)
+url: "https://seriouslee13-beep.github.io" # Your site's URL
+baseurl: "/legendary-memory"             # Your repository name (include the leading slash)
 
 # Isomer Theme Configuration
 remote_theme: isomerpages/isomerpages-template
