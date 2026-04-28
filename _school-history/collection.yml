@@ -1,0 +1,5 @@
+collections:
+  school-history:
+    output: true
+    order:
+      - School Vision, Mission and Values.md
