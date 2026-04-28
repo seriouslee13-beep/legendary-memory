@@ -17,7 +17,7 @@ plugins:
 
 # Isomer Specific Settings
 is_government: false      # Set to true if this is an official Singapore Govt site
-shareicon: /assets/img/isomer_logo.svg
+shareicon: /assets/img/isomer_logo.png
 favicon: /assets/img/favicon.ico
 
 # Header/Footer details (Customizable)
