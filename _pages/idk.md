@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-permalink: /about/
+title: Contact Us
+permalink: /contact/
 ---
 
 This is the about page. Isomer automatically formats this using the government-style template.
