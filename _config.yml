@@ -1,6 +1,6 @@
 # Site Settings
 title: raphael goons to black femboys
-description: A short description of your website for SEO and social media.
+description: Hehehaha
 url: "https://seriouslee13-beep.github.io" # Your site's URL
 baseurl: "/legendary-memory"             # Your repository name (include the leading slash)
 
@@ -17,7 +17,7 @@ plugins:
   - jekyll-assets
 
 # Isomer Specific Settings
-is_government: false      # Set to true if this is an official Singapore Govt site
+is_government: True      # Set to true if this is an official Singapore Govt site
 wogaa_id: ""
 shareicon: /assets/img/isomer_logo.png
 favicon: /assets/img/favicon.ico
