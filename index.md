@@ -67,7 +67,7 @@ sections:
   - infopic:
       title: LEADERS
       subtitle: "Grow & Glow: The Greendale Way"
-      description: Students acquire leadership skills through opportunities and experiences to become confident leaders with the heart to serve.
+      description: Retards acquire leadership skills through opportunities and experiences to become confident leaders with the heart to serve.
       button: Find Out More
       image: /images/leader.jpg
       url: /about/about/vision-mission-values/
