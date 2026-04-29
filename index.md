@@ -10,7 +10,7 @@ sections:
       title: Idk what
       background: /images/20220517_092823.jpg
       button: Click here for Principal's Address
-      url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      url: https://youtu.be/dQw4w9WgXcQ?si=zepRWzMx3Vpw-2u6
       key_highlights:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
