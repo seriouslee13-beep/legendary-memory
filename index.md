@@ -19,11 +19,11 @@ sections:
           description: Find us on social media!
           url: https://www.instagram.com/greendalesecondaryschool/
   - infopic:
-      title: Inspiring Teacher Of English Award 2026
-      subtitle: Greendale secondary school
-      description: Invitation For Nominations
+      title: Inspired Learners 
+      subtitle: Covefield Secondary School
+      description: Covelites possess a genuine "Joy of Learning." They are curious, self-directed, and view education as a lifelong journey of discovery.
       button: Click here
-      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      url: https://notgreg.space/links
       image: /images/Inspiring_teacher_of_english_award_2026.jpg
       alt: Inspiring Teacher Award
   - infopic:
