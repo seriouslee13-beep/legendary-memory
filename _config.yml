@@ -17,7 +17,7 @@ plugins:
   - jekyll-assets
 
 # Isomer Specific Settings
-is_government: True      # Set to true if this is an official Singapore Govt site
+is_government: false      # Set to true if this is an official Singapore Govt site
 wogaa_id: ""
 shareicon: /assets/img/isomer_logo.png
 favicon: /assets/img/favicon.ico
