@@ -13,7 +13,7 @@ sections:
       url: https://youtu.be/dQw4w9WgXcQ?si=zepRWzMx3Vpw-2u6
       key_highlights:
         - title: School Facebook
-          description: Follow us here for school highlights and event updates!
+          description: Greg's website!
           url: https://www.facebook.com/GreendaleSec/
         - title: School Instagram
           description: Find us on social media!
